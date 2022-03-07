@@ -3,6 +3,6 @@ public class Test {
     String name;
 
     public void sayHello(){
-        System.out.println("Hello, "+name+". Yoy are - "+ count);
+        System.out.println("Hello, "+name);
     }
 }
